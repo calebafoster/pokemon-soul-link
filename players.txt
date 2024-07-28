@@ -1,1 +1,1 @@
-[['Name', 'Caleb', 'Joel', 'Ethan'], ['gooby', 'Charizard', 'Charmeleon', 'Eevee'], ['darminitan', 'Heracross (Mega)', 'Tyranitar', 'Yanmega']]
+[['Name', 'Caleb', 'Kora', 'Isaac', 'Ethan'], ['gooby', 'Charizard', 'Blastoise', 'Venusaur', 'Pikachu'], ['yamba', 'Yanmega', 'Heracross (Mega)', 'Medicham', 'Pansear']]
